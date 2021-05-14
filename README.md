@@ -6,7 +6,7 @@
 
 ## Índice (Em manutenção)
 
-* Introdução
+* [Introdução](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-1/tree/master/livro/cap1#cap%C3%ADtulo-1)
 * Oque é um terminal?
 * Clear, Reset, Ctrl+l: Limpar a tela do terminal
 * Exercícios: 
