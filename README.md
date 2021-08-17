@@ -4,6 +4,12 @@
 
 <img src="https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-1/blob/master/Shell%20Script.png" width=1000>
 
+Existem centenas de comandos no shell e cada um deles com mais uma dezena de opções.
+Porém, alguns comandos são utilizados com muito mais frequência do que outros,
+de modo que conhecendo apenas uma parte dos comandos disponíveis, você pode realizar a grande maioria das tarefas no seu sistema linux.
+
+Neste módulo do curso nós iremos aprender os comandos básicos do terminal do Shell.
+
 ## Dependências
 
 Este curso utiliza o shell Bash, acrônimo para "Bourne-Again SHell", que já vem instalado por padrão no Linux Ubuntu.
