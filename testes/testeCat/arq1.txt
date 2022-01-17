@@ -1,0 +1,3 @@
+arquivo 1
+este é o primeiro arquivo
+terceira linha

@@ -1,0 +1,10 @@
+[01;34m.[00m
+├── lista.txt
+└── [01;34mteste1[00m
+    ├── arq1.txt
+    └── [01;34mteste2[00m
+        ├── arq2.txt
+        └── [01;34mteste3[00m
+            └── arq3.txt
+
+3 directories, 4 files

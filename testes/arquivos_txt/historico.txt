@@ -1,0 +1,81 @@
+    1  history
+    2  rm historico.txt
+    3  ls
+    4  cd ~
+    5  ls
+    6  clear
+    7  ls
+    8  head Release.key
+    9  clear
+   10  head -n 5 Release.key Release.key.1
+   11  cd testes
+   12  cd arquivos_txt
+   13  ls
+   14  cat teste1.txt
+   15  cat teste2.txt
+   16  cat usuarios.txt
+   17  cat redirecionamento.txt
+   18  clear
+   19  cd /
+   20  ls
+   21  cd tmp
+   22  ls
+   23  cd ..
+   24  clear
+   25  ls
+   26  cd etc
+   27  ls
+   28  cat ubuntu-advantage
+   29  cat get.conf
+   30  clear
+   31  cd ..
+   32  ls
+   33  cd cdrom
+   34  ls
+   35  cd ..
+   36  cd dev
+   37  ls
+   38  cd ..
+   39  cd home
+   40  ls
+   41  cd ~
+   42  clear
+   43  ls
+   44  head examples.desktop
+   45  cd testes
+   46  clear
+   47  ls
+   48  cd testeCat
+   49  ls
+   50  cat arq1.txt
+   51  cat arq2.txt
+   52  cat arq3.txt
+   53  clear
+   54  cd ..
+   55  ls
+   56  cd arquivos_txt
+   57  ls
+   58  cd ..
+   59  ls
+   60  cd Downloads
+   61  ls
+   62  cd ..
+   63  cd Documentos
+   64  ls
+   65  cd ..
+   66  ls
+   67  clear
+   68  ls
+   69  cd Publico
+   70  cd Público
+   71  ls
+   72  cd ..
+   73  clear
+   74  history
+   75  clear
+   76  cd testes
+   77  ls
+   78  cd arquivos_txt
+   79  ls
+   80  clear
+   81  history >> historico.txt

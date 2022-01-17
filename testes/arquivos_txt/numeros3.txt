@@ -1,0 +1,4 @@
+um	2
+dois	1
+três	4
+um	3
